@@ -1,0 +1,10 @@
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\bin\Debug\WFA_SirketOtomasyon.exe.config
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\bin\Debug\WFA_SirketOtomasyon.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\bin\Debug\WFA_SirketOtomasyon.pdb
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\obj\Debug\WFA_SirketOtomasyon.csproj.AssemblyReference.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\obj\Debug\WFA_SirketOtomasyon.Form1.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\obj\Debug\WFA_SirketOtomasyon.Properties.Resources.resources
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\obj\Debug\WFA_SirketOtomasyon.csproj.GenerateResource.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\obj\Debug\WFA_SirketOtomasyon.csproj.CoreCompileInputs.cache
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\obj\Debug\WFA_SirketOtomasyon.exe
+D:\Yazılım\Github\Bilge Adam Akademi\YZL3153\3-OOP\24.11\WFA_SirketOtomasyon\WFA_SirketOtomasyon\obj\Debug\WFA_SirketOtomasyon.pdb
